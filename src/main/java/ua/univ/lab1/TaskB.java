@@ -17,15 +17,14 @@ class Point
     private  double x,y,z;
     private int t;
     private  double dx,dy,dz;
-    private double v;
 
-    Point(double x, double y, double z,int t, double v)
+
+    Point(double x, double y, double z,int t)
     {
         this.x = x;
         this.y = y;
         this.z = z;
         this.t = t;
-        this.v = v;
     }
 
     Point(double x, double y, double z)
@@ -34,7 +33,6 @@ class Point
         this.y = y;
         this.z = z;
         this.t = 0;
-        this.v = 0;
     }
 
     Point (double x, double y)
@@ -43,7 +41,12 @@ class Point
         this.y = y;
         this.z = 0;
         this.t = 0;
-        this.v = 0;
+    }
+
+    public Point getPoint(int t)
+    {
+        Point result = new Point(this.x+dx*(t-this.t),this.y+dy*(t-this.t),this.z+dz*(t-this.t),t);
+        return result;
     }
 
     public double getX()
@@ -65,17 +68,9 @@ class Point
     {
         return  t;
     }
-    public double getV()
-    {
-        return  v;
-    }
     public void setT(int t)
     {
         this.t=t;
-    }
-
-    public void setV(double v) {
-        this.v = v;
     }
 
     public void setMoving(double dx, double dy, double dz)
@@ -84,7 +79,5 @@ class Point
         this.dy = dy;
         this.dz = dz;
     }
-
-
 
 }
