@@ -8,7 +8,7 @@ public abstract class GemStonesBuilder<T1 extends GemStonesBuilder<T1 , T2>, T2 
     private int    _price        = 0;
     private String _name         = "No name";
     private String _manufacturer = "Home-made";
-    private String _transparency = "Translucent";
+    private int _transparency = 0;
 
     public GemStonesBuilder() {}
 
@@ -32,7 +32,7 @@ public abstract class GemStonesBuilder<T1 extends GemStonesBuilder<T1 , T2>, T2 
         return getThis();
     }
 
-    public T1 setTransparency(String _transparency)
+    public T1 setTransparency(int _transparency)
     {
         this._transparency = _transparency;
         return  getThis();
@@ -45,7 +45,7 @@ public abstract class GemStonesBuilder<T1 extends GemStonesBuilder<T1 , T2>, T2 
 
     protected String getManufacturer() { return _manufacturer; }
 
-    protected  String getTransparency() {return _transparency; }
+    protected  int getTransparency() {return _transparency; }
 
     protected abstract T1 getThis();
 

@@ -14,6 +14,10 @@ public final class PreciousStoneBuilder extends GemStonesBuilder<PreciousStoneBu
         return this;
     }
 
+    public PreciousStoneBuilder setHardness(int _hardness) {
+        this._hardness = _hardness;
+        return this;
+    }
 
     @Override
     public PreciousStone build() {

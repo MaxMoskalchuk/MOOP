@@ -8,14 +8,14 @@ public abstract class GemStones {
     private int price;
     private String name;
     private String manufacturer;
-    private String transparency;
+    private int transparency;
 
-    public GemStones(String name, int price, double weight, String manufacturer, String transparency)
+    public GemStones(String name, int price, double weight, String manufacturer, int transparency)
     {
         if(price < 0) throw new RuntimeException("Price couldn't be negative.");
         if(weight <= 0) throw new RuntimeException("Weight must be positive.");
         if(name == null || name.isEmpty()) throw new RuntimeException("Stone couldn't be anonymous.");
-        if(transparency == null || transparency.isEmpty()) throw new RuntimeException("Stone couldn't be without transparency");
+        if(transparency <0 || transparency>10) throw new RuntimeException("Transparency must be with range 1 - 10");
 
         this.name = name;
         this.price = price;
@@ -40,16 +40,17 @@ public abstract class GemStones {
         return manufacturer;
     }
 
-    public String getTransparency() {
+    public int getTransparency() {
         return transparency;
     }
+
     public void setPrice(int price) {
         this.price = price;
     }
 
     @Override
     public String toString() {
-        return String.format("Stone:\n\tName: %s\n\tPrice: %d\n\tWeight: %f\n\tManufacturer: %s\n\tTtransparency: %s",
+        return String.format("Stone:\n\t\t\tName: %s\n\t\t\tPrice: %d\n\t\t\tWeight: %f\n\t\t\tManufacturer: %s\n\t\t\tTtransparency: %d",
                 name,
                 price,
                 weight,

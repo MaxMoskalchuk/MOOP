@@ -1,45 +1,35 @@
 package ua.univ.lab2.TaskB.Stones;
 
 /**
- * Created by Asus on 03.11.2018.
+ * Created by Asus on 04.11.2018.
  */
-public class PreciousStone extends GemStones {
-    private int hardness;
+public class HalfPreciousStone extends GemStones {
     private String color;
-    public PreciousStone(String name, int price, double weight, String manufacturer, int transparency, int hardness, String color)
+    public HalfPreciousStone(String name, int price, double weight, String manufacturer, int transparency, String color)
     {
 
         super(name,price,weight,manufacturer,transparency);
-        if(hardness<0 || hardness>10) throw new RuntimeException("Hardness must be in range 1-10");
-        this.hardness=hardness;
         this.color=color;
     }
 
-    public int getHardness()
-    {
-        return hardness;
-    }
     public String getColor()
     {
         return  color;
     }
-
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("PreiousStone:\n\t\t")
+        sb.append("HalfPreciousStone:\n\t\t\t")
                 .append(super.toString()+"\n\t\t\t")
                 .append("Color: ")
-                .append(color + "\n\t\t\t")
-                .append("Hardness: ")
-                .append(hardness + "\n\t\t\t");
+                .append(color + "\n\t\t\t");
         return sb.toString();
     }
 
     @Override
     public boolean equals(Object obj) {
-        if(!(obj instanceof PreciousStone)) return false;
-        PreciousStone other = (PreciousStone)obj;
+        if(!(obj instanceof HalfPreciousStone)) return false;
+        HalfPreciousStone other = (HalfPreciousStone)obj;
         return super.equals(obj) && color.equalsIgnoreCase(other.color);
     }
 
@@ -57,3 +47,5 @@ public class PreciousStone extends GemStones {
         return (int)(hash % Integer.MAX_VALUE);
     }
 }
+
+
