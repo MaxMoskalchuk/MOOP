@@ -26,21 +26,21 @@ public class TaskA
 
                 new House(21, 35., 10, 2, "Glushkova", "high-rise building", 15)
         );
-        System.out.println("Cписок квартир, имеющих заданное число комнат");
+        System.out.println("Cписок квартир, имеющих заданное число комнат 1");
         ArrayList<House> ListApartmentWithNumberOfRooms = houses.getApartmentWithGivenNumberOfRooms(1);
         for(House house : ListApartmentWithNumberOfRooms)
         {
             System.out.println(house);
         }
 
-        System.out.println("Cписок квартир, имеющих заданное число комнат и расположенных на этаже, который находится в заданном промежутке;");
+        System.out.println("Cписок квартир, имеющих заданное число комнат (1)  и расположенных на этаже, который находится в заданном промежутке[1;3];");
         ArrayList<House> ListApartmentWithNumberOfRoomsAndFloor = houses.getApartmentWithGivenNumberOfRoomsAndLocatedOnTheFloorWithTheInterval(1,1,3);
         for(House house : ListApartmentWithNumberOfRoomsAndFloor)
         {
             System.out.println(house);
         }
 
-        System.out.println("список квартир, имеющих площадь, превосходящую заданную. ");
+        System.out.println("список квартир, имеющих площадь, превосходящую заданную(30.). ");
         ArrayList<House> ListApartmentWithLargerArea = houses.getApartmentWithAreaLargerThanGiven(30.);
         for(House house : ListApartmentWithLargerArea)
         {

@@ -3,7 +3,9 @@ package ua.univ.lab2.TaskA;
 import java.util.ArrayList;
 
 /**
- * Created by Asus on 03.11.2018.
+ Создать  объект  класса  Звездная  система,  используя  классы  Планета,
+ Звезда, Луна. Методы: вывести на консоль количество планет в звездной  системе,
+ название звезды, добавление планеты в систему.
  */
 public class taskA {
     public static void main(String[] args)
