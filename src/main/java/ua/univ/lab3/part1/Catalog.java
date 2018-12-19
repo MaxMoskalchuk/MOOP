@@ -3,74 +3,89 @@ package ua.univ.lab3.part1;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Date;
+import java.util.List;
+
 
 /**
  * Created by Asus on 04.11.2018.
  */
-public final class Catalog {
-   private final class HumanWithBook
-   {
-       private String name;
-       private int StartRead;
-       private int EndRead;
 
-       public HumanWithBook(String name, int StartRead, int EndRead) {
-           this.name = name;
-           this.StartRead = StartRead;
-           this.EndRead = EndRead;
-       }
+public class Catalog {
 
-       public int getStartRead()
-       {
-           return this.StartRead;
-       }
+    List<Book> books = new ArrayList<Book>(){{
+        for (int i = 0; i <7 ; i++) {
+            add(new Book("Book" + i, "AA" + i));
+        }
+        for (int i = 3; i <10 ; i++) {
+            add(new Book("Book" + i, "BB" + i));
+        }
+        for (int i = 8; i <14 ; i++) {
+            add(new Book("Book" + i, "CC" + i));
+        }
+    }};
 
-       public int getEndRead()
-       {
-           return this.EndRead;
-       }
 
-       @Override
-       public String toString() {
-           StringBuilder sb = new StringBuilder();
-           sb.append("Human:\n\t")
-                   .append("Name: ")
-                   .append(name + "\n\t")
-                   .append("Start read book: ")
-                   .append(StartRead + "\n\t")
-                   .append("End read book:")
-                   .append(EndRead + "\n");
-           return sb.toString();
-       }
-   }
 
-   public final class Book
-   {
-       private String name;
-       private ArrayList<HumanWithBook> humans = new ArrayList<>();
+    public static class Book{
+        String name;
+        String catalogID;
+        boolean isTaken;
+        StringBuilder history;
 
-       public Book(String name)
-       {
-           this.name = name;
-       }
+        public Book(String name, String catalogID) {
+            this.name = name;
+            this.catalogID = catalogID;
+            isTaken = false;
+            history = new StringBuilder();
+        }
+    }
 
-       public void setName(String name)
-       {
-           this.name = name;
-       }
-       public void AddReader(HumanWithBook human)
-       {
-           humans.add(human);
-       }
-       class SortHuman implements Comparator<HumanWithBook> {
-           public int compare(HumanWithBook h1, HumanWithBook h2) {
-               return h1.getStartRead() - h2.getStartRead();
-           }
-       }
-       public String getHistory()
-       {
-           Collections.sort(humans,new SortHuman());
-            return humans.toString();
-       }
-   }
+    public String takeBook (String readerId, String bookName){
+        for (Book currentBook : books){
+            if (currentBook.name.equals(bookName)){
+                if (currentBook.isTaken) continue;
+                else {
+                    currentBook.isTaken = true;
+                    currentBook.history.append(readerId);
+                    currentBook.history.append(" take ");
+                    currentBook.history.append(new Date());
+                    currentBook.history.append("\r\n");
+                    return currentBook.catalogID;
+                }
+            }
+        }
+        return "taken";
+
+
+    }
+    public void returnBook (String readerId, String bookId){
+        for (Book currentBook: books){
+
+            if (currentBook.catalogID.equals(bookId)){
+                if (currentBook.isTaken) {
+                    currentBook.isTaken = false;
+                    currentBook.history.append(readerId);
+                    currentBook.history.append(" return ");
+                    currentBook.history.append(new Date());
+                    currentBook.history.append("\r\n");
+                    return;
+                }
+                break;
+            }
+        }
+
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder catalogLog = new StringBuilder();
+        for (Book book : books){
+            catalogLog.append(book.name);
+            catalogLog.append("\r\n");
+            catalogLog.append(book.history);
+        }
+
+        return catalogLog.toString();
+    }
 }

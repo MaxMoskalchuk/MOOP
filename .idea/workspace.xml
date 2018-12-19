@@ -2,42 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae2317d7-e534-4f90-a55b-8ca6ad4b5e37" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MOOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab2/TaskA/taskA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab2/TaskA/taskA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab2/TaskB/TaskB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab2/TaskB/TaskB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/ArrayOfHouses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/ArrayOfHouses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/RationalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/RationalNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab1/TaskC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Astronomical_Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Astronomical_Body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Moon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Moon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Star.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Star_System.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/Star_System.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/taskA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskA/taskA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/Necklace$SortGem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/Necklace$SortGem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/Necklace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/Necklace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/NecklaceUtils$SortGemByPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/NecklaceUtils$SortGemByPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/NecklaceUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Necklace/NecklaceUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/GemStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/GemStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/GemStonesBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/GemStonesBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/HalfPreciousStone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/HalfPreciousStone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/HalfPreciousStoneBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/HalfPreciousStoneBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/PreciousStone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/PreciousStone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/PreciousStoneBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/Stones/PreciousStoneBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/TaskB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab2/TaskB/TaskB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/univ/lab1/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ua/univ/lab1/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/TaskA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/TaskA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/AbstractShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab3/part1/Catalog$Book$SortHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab3/part1/Catalog$HumanWithBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab3/part2/AbstractShip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/univ/lab3/part2/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/univ/lab3/part2/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/index_jsp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,91 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/user.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="105" column="77" selection-start-line="105" selection-start-column="77" selection-end-line="105" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/TourDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="159" selection-start-line="159" selection-end-line="159" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#358#373#0" expanded="true" />
-                <element signature="e#4509#4515#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/FindTourCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Enums/Commands.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="309">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,30 +37,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers/UserController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskA/TaskA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-85">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Models/User.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="100">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1248#1249#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,29 +75,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab1/TaskA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Exceptions/TourError.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Exceptions/UserError.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/CRUD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/Entity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/Tour.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/ConnectorDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Settings/Settings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Utils/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Utils/OptionPair.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Enums/UserRoles.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/AgencyCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/SignUpLoginCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/LoginCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/AbstractDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/SignUpCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/CommandFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers/LoginControllers.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/js/jquery-3.3.1.min.js" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/error.jsp" />
@@ -240,6 +106,26 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/AbstractShip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/WarShip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Carrier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Ship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/Catalog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskA/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Char.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/IToken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Listing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Word.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/TokenUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/input.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java" />
       </list>
     </option>
   </component>
@@ -313,7 +199,37 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="univ" type="462c0819:PsiDirectoryNode" />
-              <item name="lab8" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="univ" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TaskA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="univ" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TaskB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="univ" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TaskC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545236800439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545249832808" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -346,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.TaskC">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -389,13 +305,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univ.lab8.Main" />
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univ.lab3.part2.Run" />
       <module name="MOOP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univ.lab8.*" />
+          <option name="PATTERN" value="ua.univ.lab3.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,14 +319,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ua.univ.lab8.DB.Run" />
+    <configuration name="TaskA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univ.lab3.part1.TaskA" />
       <module name="MOOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univ.lab8.DB.*" />
+          <option name="PATTERN" value="ua.univ.lab3.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.univ.lab4.TaskA.TaskA" />
+      <module name="MOOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.univ.lab4.TaskA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,12 +348,12 @@
       </method>
     </configuration>
     <configuration name="TaskB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univ.lab2.TaskB.TaskB" />
+      <option name="MAIN_CLASS_NAME" value="ua.univ.lab4.TaskB.TaskB" />
       <module name="MOOP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univ.lab2.TaskB.*" />
+          <option name="PATTERN" value="ua.univ.lab4.TaskB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,13 +362,12 @@
       </method>
     </configuration>
     <configuration name="TaskC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ua.univ.lab1.TaskC" />
+      <option name="MAIN_CLASS_NAME" value="ua.univ.lab4.TaskC.TaskC" />
       <module name="MOOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.univ.lab1.*" />
+          <option name="PATTERN" value="ua.univ.lab4.TaskC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,20 +377,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="taskA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.univ.lab2.TaskA.taskA" />
-      <module name="MOOP" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.univ.lab2.TaskA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -649,19 +563,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TaskC" />
-      <item itemvalue="Application.taskA" />
+      <item itemvalue="Application.Run (1)" />
+      <item itemvalue="Application.TaskA" />
+      <item itemvalue="Application.TaskA (1)" />
       <item itemvalue="Application.TaskB" />
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TaskC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.TaskB" />
-        <item itemvalue="Application.taskA" />
         <item itemvalue="Application.TaskC" />
+        <item itemvalue="Application.TaskB" />
+        <item itemvalue="Application.TaskA (1)" />
+        <item itemvalue="Application.TaskA" />
+        <item itemvalue="Application.Run (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -681,18 +595,18 @@
       <workItem from="1545154332803" duration="16563000" />
       <workItem from="1545203088796" duration="4284000" />
       <workItem from="1545214171184" duration="3056000" />
-      <workItem from="1545233806020" duration="2729000" />
+      <workItem from="1545233806020" duration="14414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45702000" />
+    <option name="totallyTimeSpent" value="57387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.295764" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.295764" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -704,13 +618,13 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.39938557" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3296" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3296" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32872504" />
       <window_info anchor="right" id="Database" order="0" />
@@ -862,154 +776,52 @@
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/TaskB.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="text.charAt(i)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>text.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/ConnectorDB.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Utils/OptionPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/DB/User.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/AgencyCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/AbstractDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/SignUpCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/SignUpLoginCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/CommandFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="188" column="22" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
-          <folding>
-            <element signature="e#5321#6906#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/GetTourCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/ServiceDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Enums/UserRoles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar!/org/apache/commons/dbcp/BasicDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="677" selection-start-line="677" selection-end-line="677" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="69" column="31" lean-forward="true" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -1221,34 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Models/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1248#1249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/TourDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="159" selection-start-line="159" selection-end-line="159" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#373#0" expanded="true" />
-            <element signature="e#4509#4515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Commands/FindTourCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -1269,12 +1053,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Controllers/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/TourDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#373#0" expanded="true" />
+            <element signature="e#4509#4515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#5324#6909#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1289,27 +1119,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/static/js/jquery-3.3.1.min.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/Models/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="219">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/JSP/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/Data/DAO/AbstractDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/AbstractShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Carrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/WarShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part2/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/Catalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab3/part1/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Listing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/Char.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/TokenUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab8/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/Parser/Tokens/IToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskB/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskA/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/univ/lab4/TaskC/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

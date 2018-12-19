@@ -5,8 +5,10 @@ package ua.univ.lab3.part2;
  */
 public interface Ship
 {
-    public int getWeight(AbstractShip ship);
+    public int getWeight();
 
+    public String getName();
 
+    public boolean Move();
 
 }

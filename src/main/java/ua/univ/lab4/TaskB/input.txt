@@ -1,0 +1,44 @@
+Overview
+The Log4j API provides the interface that applications should code to and provides the adapter components required for implementers to create a logging implementation. Although Log4j is broken up between an API and an implementation, the primary purpose of doing so was not to allow multiple implementations, although that is certainly possible, but to clearly define what classes and methods are safe to use in "normal" application code.
+
+Hello World!
+No introduction would be complete without the customary Hello, World example. Here is ours. First, a Logger with the name "HelloWorld" is obtained from the LogManager. Next, the logger is used to write the "Hello, World!" message, however the message will be written only if the Logger is configured to allow informational messages.
+
+<code>
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class HelloWorld {
+    private static final Logger logger = LogManager.getLogger("HelloWorld");
+    public static void main(String[] args) {
+        logger.info("Hello, World!");
+    }
+}
+</code>
+
+The output from the call to <code> logger.info() </code> will vary significantly depending on the configuration used. See the Configuration section for more details.
+
+Substituting Parameters
+Frequently the purpose of logging is to provide information about what is happening in the system, which requires including information about the objects being manipulated. In previous versions of Log4j this could be accomplished by doing:
+
+<code>
+if (logger.isDebugEnabled()) {
+    logger.debug("Logging in user " + user.getName() + " with birthday " + user.getBirthdayCalendar());
+}
+</code>
+
+Doing this repeatedly has the effect of making the code feel like it is more about logging than the actual task at hand. In addition, it results in the logging level being checked twice; once on the call to isDebugEnabled and once on the debug method. A better alternative would be:
+
+<code> logger.debug("Logging in user {} with birthday {}", user.getName(), user.getBirthdayCalendar()); </code>
+With the code above the logging level will only be checked once and the String construction will only occur when debug logging is enabled.
+
+Formatting Parameters
+Formatter Loggers leave formatting up to you if <code> toString() </code> is not what you want. To facilitate formatting, you can use the same format strings as Java's Formatter. For example:
+<code>
+public static Logger logger = LogManager.getFormatterLogger("Foo");
+
+logger.debug("Logging in user %s with birthday %s", user.getName(), user.getBirthdayCalendar());
+logger.debug("Logging in user %1$s with birthday %2$tm %2$te,%2$tY", user.getName(), user.getBirthdayCalendar());
+logger.debug("Integer.MAX_VALUE = %,d", Integer.MAX_VALUE);
+logger.debug("Long.MAX_VALUE = %,d", Long.MAX_VALUE);
+</code>
